@@ -1,5 +1,5 @@
 {
-    "name": "mohammad/string-utils",
+    "name": "mohammad1212/string-utils",
     "description": "Simple string utils for dealing easier with them",
     "keywords": [
         "string",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mohammad\\StringUtils\\": "src"
+            "Mohammad1212\\StringUtils\\": "src"
         }
     }
 }
