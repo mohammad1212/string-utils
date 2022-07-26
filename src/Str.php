@@ -1,6 +1,6 @@
 <?php
 
-namespace Mohammad\StringUtils;
+namespace Mohammad1212\StringUtils;
 
 class Str
 {
